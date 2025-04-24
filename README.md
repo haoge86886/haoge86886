@@ -21,5 +21,5 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=你的GitHub用户名&style=flat-square" alt="访问量"/>
+  <img src="https://komarev.com/ghpvc/?username=haoge86886&style=flat-square" alt="访问量"/>
 </p>
