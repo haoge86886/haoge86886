@@ -13,7 +13,8 @@
 
 ###在学习<br>
 -用于数据分析的python库(nnumpy,matplotlib....)  
--前后端开发  
+-深度学习
+
 
 ##项目<br>
 
