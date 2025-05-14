@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋，我是 皓哥 - haoge86886</h1>
+<p>
+  <img src= "./_DSC0667.png" >
+</p>
 
 ---
 
@@ -6,7 +9,7 @@
 - 🎓 BNUZ 大一 · 数据科学与大数据技术专业在读  
 - 🎮 喜欢剧情向单机游戏  
 - 🌸 東方厨  
-<p align="center">
+<p align="left">
   <img src="./0cad8b6dccd0a26044fe9d386b3d9b8.jpg" alt="TouHou!" width="300">
 </p>
 
