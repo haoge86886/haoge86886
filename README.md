@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋，我是 皓哥 - haoge86886</h1>
 <p>
-  <img src= "./_DSC0667.png" >
+  <img src= "./_DSC0667.png" width = "500">
 </p>
+
 
 ---
 
