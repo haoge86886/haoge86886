@@ -5,30 +5,13 @@
 
 
 ---
+## 基本信息
+来自吉林长春
 
-## 🧑‍💻 基本介绍
-- 🎓 BNUZ 大一 · 数据科学与大数据技术专业在读  
-- 🎮 喜欢剧情向单机游戏  
-- 🌸 東方厨  
+北京师范大学珠海校区本科就读 数据科学与大数据技术专业
 
+研究方向 : LLM训练与微调 多模态大模型 Agent开发
 ---
-
-## 🛠️ 技术栈
-
-### 📌 掌握语言
-![C](https://img.shields.io/badge/C-blue?style=flat-square&logo=c)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-
-### 📚 正在学习
-- Python 数据分析相关库（`numpy`、`matplotlib` 等）  
-- 🧠 深度学习基础  
-- 📡 边缘智能（Edge Intelligence）  
-
----
-
-
-
-## 项目  
 
 
 
