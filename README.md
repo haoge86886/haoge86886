@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋，我是 皓哥 - haoge86886</h1>
+<h1 align="center">我是 haoge86886</h1>
 <p align = "center">
   <img src= "./_DSC0667.png" width = "500">
 </p>
